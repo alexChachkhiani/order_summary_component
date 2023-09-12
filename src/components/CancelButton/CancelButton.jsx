@@ -1,6 +1,8 @@
+import "./CancelButton.css"
+
 const CancelButton = () => {
     return (
-        <div>
+        <div className="cancel-div">
             <span>Cancel Order</span>
         </div>
     )

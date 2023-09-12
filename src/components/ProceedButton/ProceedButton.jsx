@@ -3,7 +3,7 @@ import "./ProceedButton.css"
 const ProceedButton = () => {
     return (
         <div>
-            <button type="button">Proceed To Payment</button>
+            <button type="button" href="#">Proceed To Payment</button>
         </div>
     )
 }

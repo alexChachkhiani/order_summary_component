@@ -13,6 +13,37 @@
   flex-direction: column;
 }
 
+.price-section p {
+  width: 92px;
+  color: #1f2e55;
+  font-family: Red Hat Display;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+
+.price-section span {
+  width: 92px;
+  color: #717fa6;
+  font-family: Red Hat Display;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
 .second-section {
   display: flex;
+  gap: 20px;
+}
+
+a {
+  color: #382ae1;
+  font-family: Red Hat Display;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration-line: underline;
 }

@@ -7,11 +7,11 @@ const AnnualPlan = () => {
         <div className="second-section">
             <img alt="Icon Music" src={iconMusicImage} />
             <div className="price-section">
-                <span>Annual Plan</span>
+                <p>Annual Plan</p>
                 <span>$59.99/year</span>
             </div>
         </div>
-        <span>Change</span>
+        <a href="#">Change</a>
     </div>
     )
 }
