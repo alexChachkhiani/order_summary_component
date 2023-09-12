@@ -1,0 +1,11 @@
+.description-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 17px;
+}
+
+p {
+  width: 354px;
+}
